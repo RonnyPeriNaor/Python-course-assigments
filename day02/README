@@ -1,0 +1,2 @@
+//Code created using ChatGPT with the following Prompt
+// Please write me the code in phyton for a function the calculate avrage' standard deviation and %CV of experimental replicates: 1. start by asking the user to write the sample name. 2. Then ask him to write the number of replicates in this sample. 3. Ask to enter the measured values, seperated by comma. 4. Calculate Average, standard deviation and %CV. 5. Print to the user in separate lines: "Sample name:" name, "Average:" calculated average, "STDEV:" calculated standard deviation, "%CV:" calculated %CV
